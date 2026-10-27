@@ -1,0 +1,24 @@
+{
+	"name": "roychgod/native-command",
+	"description": "Keyboard command palette for ProcessWire — in the admin and on the front-end: edit any field, bulk actions with selectors, undo, search and jump anywhere.",
+	"type": "pw-module",
+	"license": "MIT",
+	"keywords": ["processwire", "processwire-module", "command-palette", "admin", "front-end-editing", "bulk-edit"],
+	"homepage": "https://github.com/Roychgod/NativeCommand",
+	"authors": [
+		{
+			"name": "Gregor Rojko",
+			"homepage": "https://pyxios.com"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/Roychgod/NativeCommand/issues"
+	},
+	"require": {
+		"php": ">=7.4",
+		"wireframe-framework/processwire-composer-installer": "^1.0"
+	},
+	"extra": {
+		"installer-name": "NativeCommand"
+	}
+}
